@@ -61,3 +61,17 @@ console.log(typeof two);
 
 let three = true
 console.log(typeof three);
+
+
+/*--------------------prompt----------------------------*/
+
+let promptName= prompt('Name','Роман')
+
+let promptLastName= prompt('Last name','Францович')
+
+let promptAge= prompt('your age','28')
+
+console.log(promptName, promptLastName, promptAge)
+
+
+
