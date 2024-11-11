@@ -1,4 +1,4 @@
-function list (text, quantity){
+function list (text){
     document.write(`<ul><li>${text}</li></ul>`)
 }
 
