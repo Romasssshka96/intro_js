@@ -10,4 +10,7 @@ let exchange = (sumUAH,currencyValues,exchangeCurrency) =>{
     return  sumUAH / selectedCurrency.value;
 }
 
-document.write(exchange(1000,currencyArray,'USD'))
+document.write(exchange(1000,currencyArray,'EUR'))
+
+
+
