@@ -70,5 +70,38 @@ let coursesArray = [
 
 
 
+
+
+let findDocker1 = coursesArray.filter(value => value.modules.find(item => item === 'docker'));
+console.log(findDocker1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 let findDocker = coursesArray.filter(value => value.modules.includes('docker'));
 console.log(findDocker)
