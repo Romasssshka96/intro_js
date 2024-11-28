@@ -57,35 +57,3 @@ fetch('https://dummyjson.com/recipes')
 
 
 
-/* caloriesPerServing: ${unit.caloriesPerServing},
-
-            cookTimeMinutes: ${unit.cookTimeMinutes},
-
-            cuisine: ${unit. cuisine},
-
-            difficulty: ${unit.difficulty},
-
-            id: ${unit.id},
-
-            image:
-
-            ingredients: ${unit.ingredients},
-
-            instructions: ${unit.instructions},
-
-            mealType: ${unit.mealType},
-
-            name: ${unit.name},
-
-            prepTimeMinutes: ${unit.prepTimeMinutes},
-
-            rating: ${unit.rating},
-
-            reviewCount: ${unit.reviewCount},
-
-            servings: ${unit.servings},
-
-            tags:${unit.tags},
-
-            userId:${unit.userId},
-            `*/
